@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/LENOVO/Documents/GitHub/Selenium/src/test/java/com/base/Testing.java">
+    <parameter name="browser" value="chrome"></parameter>
+    <classes><class name="com.base.Testing">
+<!--        <methods>-->
+<!--            <include name="test1"/>-->
+<!--            <include name="test2"/>-->
+<!--        </methods>-->
+    </class>
+    </classes>
+</test>
+</suite>

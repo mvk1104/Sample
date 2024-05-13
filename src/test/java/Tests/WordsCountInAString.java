@@ -6,7 +6,7 @@ public class WordsCountInAString {
         String s1 = "My Name Is Vinoth Kumar";
         for (int i = 0; i < s1.length(); i++) {
             char c = s1.charAt(i);
-            if(c != ' ');
+            if(c != s1.toCharArray()[i]);
             count++;
 
         }
